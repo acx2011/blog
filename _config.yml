@@ -2,12 +2,12 @@
 #  User configuration
 # -----------------------------------------------------------------------------
 
-title:               RICK Blog
+title:               Rick's Blog
 
 baseurl:             /blog
 
 description:         >
-  <p>这些都是给普通人看的，</p>
+  <p>知识放在这里，</p>
   <p>学会它，</p>
   <p>让生活变得更美好。</p>
 
