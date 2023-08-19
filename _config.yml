@@ -2,19 +2,19 @@
 #  User configuration
 # -----------------------------------------------------------------------------
 
-title:               Hower Blog
+title:               RICK Blog
 
 baseurl:             /blog
 
 description:         >
-  <p>代码是写给人看的，</p>
-  <p>只不过，</p>
-  <p>最后让机器执行一下。</p>
+  <p>这些都是给普通人看的，</p>
+  <p>学会它，</p>
+  <p>让生活变得更美好。</p>
 
 # This should be the same author as first entry in `_data/authors.yml`
 author:
-  name:              whatwhyhow7
-  email:             wangwenhao.rar@gmail.com
+  name:              acx2011
+  email:             acx2011@gmail.com
 
 # Fallback image and color
 image:               /blog/assets/img/

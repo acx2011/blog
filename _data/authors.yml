@@ -1,19 +1,24 @@
 Hower:
-  name:              whatwhyhow7
-  email:             wangwenhao.rar@gmail.com
+  name:              Rick
+  email:             acx2011@gmail.com
 
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    出家人不打诳语，你这个需求我说做不了就是做不了。
+    这是一个关于知识的网站，
+    你的第一台PC，
+    你的第一个家庭网络,
+    你的第一个网页，
+    你的第一个app，
+    在这里，你都可以找到解决方案。
 
   picture:
-    src:               /blog/assets/img/me.jpg
+    src:               /blog/assets/img/rick.jpg
 
   social:
-    home:              https://whatwhyhow7.github.io/
-    photo:             https://whatwhyhow7.github.io/photo/
-    gitHub:            whatwhyhow7
-    email:             mailto:wangwenhao.rar@gmail.com
+    home:              https://acx2011.github.io/blog
+    photo:             https://acx2011.github.io/
+    gitHub:            acx2011
+    email:             mailto:acx2011@gmail.com
     # facebook:        <username>
     # twitter:         <username>
     # google:          <number>
